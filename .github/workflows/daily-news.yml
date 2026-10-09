@@ -1,0 +1,48 @@
+name: AI Grow 每日资讯更新与网页发布
+on:
+  push:
+    branches: [main]
+  schedule:
+    # 北京时间 08:30（含时区；用户如果要改成英国当地 08:30，可改为 Europe/London）。
+    # GitHub 调度可能延迟，不能保证准点执行。
+    - cron: '30 8 * * *'
+      timezone: 'Asia/Shanghai'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: ai-grow-pages
+  cancel-in-progress: false
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 拉取 RSS 资讯并生成每日简报
+        if: github.event_name != 'push'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_NEWS_MODEL: gpt-4o-mini
+        run: python scripts/update_news.py
+      - name: 保存最新简报到仓库
+        if: github.event_name != 'push'
+        run: |
+          git config user.name 'ai-grow-news-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add news.json
+          git diff --cached --quiet || (git commit -m 'chore: refresh daily AI news' && git push)
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+      - name: 发布到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
