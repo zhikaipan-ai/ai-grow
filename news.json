@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-09T03:00:00Z",
+  "source_mode": "verified_snapshot",
+  "items": [
+    {
+      "id": "openai-gpt6-ui-20261007",
+      "category": "大模型",
+      "source": "OpenAI · 官方",
+      "title": "GPT-6 向更多用户开放，并推出交互式智能界面",
+      "summary": "OpenAI 10 月 7 日宣布 GPT-6 在 ChatGPT 中面向更多用户推出，同时引入可交互的视觉界面，帮助用户用图表、控件等方式直接探索问题。",
+      "why": "观察 AI 从单纯的聊天窗口走向可操作工具；你可以尝试把学习内容变成互动练习。",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "date": "10月7日",
+      "publishedAt": "2026-10-07T00:00:00Z",
+      "translated": true
+    },
+    {
+      "id": "google-gemini-agent-20261008",
+      "category": "Agent",
+      "source": "Google Cloud · 官方",
+      "title": "Google Cloud 发布面向工作的 Gemini Agent",
+      "summary": "Google Cloud 在 10 月 8 日的 Gemini at Work 活动中推出通用工作代理，可利用企业上下文、技能和工具，协助知识工作、内容制作与编码，并提供治理和成本控制。",
+      "why": "了解 Agent 如何把工作任务与企业已有工具连接起来；重点观察其权限、成本和审批设计。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+      "date": "10月8日",
+      "publishedAt": "2026-10-08T00:00:00Z",
+      "translated": true
+    },
+    {
+      "id": "openai-math-20261006",
+      "category": "大模型",
+      "source": "OpenAI · 官方",
+      "title": "OpenAI 公布 AI 在数学开放问题上的研究进展",
+      "summary": "OpenAI 10 月 6 日公开了一批由内部前沿模型产生的数学研究成果，并在 GitHub 分享论文与部分 Lean 形式化证明，强调开放检验与后续同行反馈。",
+      "why": "学习如何判断 AI 研究成果的可靠性：是否提供可复核的证明、数据和方法，比标题更重要。",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "date": "10月6日",
+      "publishedAt": "2026-10-06T00:00:00Z",
+      "translated": true
+    },
+    {
+      "id": "verge-agents-privacy-20261009",
+      "category": "Agent",
+      "source": "The Verge · 媒体",
+      "title": "消费级 AI Agent 竞争升温，隐私与信任成焦点",
+      "summary": "The Verge 10 月 9 日讨论 Meta Muse 与 OpenAI Dots 等 AI Agent 的应用前景，重点关注用户信任、数据权限、商业模式与自动行动的一致性。",
+      "why": "在尝试 Agent 工具时，可以先检查它会访问哪些数据、能自动执行哪些操作，以及如何撤销权限。",
+      "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "date": "10月9日",
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "translated": true
+    },
+    {
+      "id": "deepmind-private-memory-20260923",
+      "category": "产品",
+      "source": "Google DeepMind · 官方",
+      "title": "Google DeepMind 探索兼顾隐私的跨设备 AI 记忆",
+      "summary": "Google DeepMind 9 月 23 日介绍 Private AI Compute 的服务器端记忆架构，探讨如何在提供跨设备连续体验的同时维持更严格的数据保护。",
+      "why": "理解长期记忆类 AI 产品的取舍：方便性、数据保存位置、访问控制和用户可删除性。",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "date": "9月23日",
+      "publishedAt": "2026-09-23T00:00:00Z",
+      "translated": true
+    }
+  ]
+}

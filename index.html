@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f8f9ff">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="AI Grow">
+<meta name="description" content="每天 10–20 分钟，轻松养成 AI 能力。">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="icon" href="icons/favicon.png" type="image/png">
+<link rel="stylesheet" href="styles.css">
+<title>AI Grow V1.1 · 让进步每天发生</title>
+</head>
+<body>
+<div class="background-orb orb-one"></div><div class="background-orb orb-two"></div>
+<div class="shell">
+  <aside class="presentation">
+    <div class="logo-row"><span class="mark">✦</span><span>AI Grow<span class="logo-dot">.</span></span></div>
+    <div class="present-copy"><span class="eyebrow"><span class="twinkle">✳</span> YOUR DAILY AI COMPANION</span>
+      <h1>让 AI 学习，<br><span>轻一点。</span></h1>
+      <p>每天 10–20 分钟，看看世界又发生了什么，学一个真正有用的技巧，再把灵感留下来。</p>
+      <div class="present-features"><span>✧ 全球资讯 · 中文精选</span><span>✧ 轻量化系统学习</span><span>✧ 每周 3 次自由实践</span><span>✧ 个人知识不断生长</span></div>
+    </div>
+    <div class="present-bottom"><span class="tiny-circle">✦</span> 为好奇心，留一点时间。<span>V1.1</span></div>
+  </aside>
+  <main class="app" id="app">
+    <div class="top-system"><span id="local-time">9:41</span><div class="system-icons"><span class="signal">▂▄▆</span><svg width="16" height="14" viewBox="0 0 24 24" fill="none"><path d="M2 9a15 15 0 0 1 20 0M5 12a11 11 0 0 1 14 0M9 16a5 5 0 0 1 6 0" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/><circle cx="12" cy="20" r="1.5" fill="currentColor"/></svg><span class="battery"><i></i></span></div></div>
+    <div id="screen" class="screen" role="main"></div>
+    <nav id="navigation" class="nav" aria-label="底部导航"></nav>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  </main>
+</div>
+<div id="modal-root"></div>
+<script src="app.js" defer></script>
+</body>
+</html>
