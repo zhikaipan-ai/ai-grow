@@ -1,17 +1,89 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T12:03:38Z",
+  "generated_at": "2026-10-10T00:55:06Z",
   "source_mode": "rss_auto",
   "items": [
     {
-      "id": "d55dd9b285d68fe3",
+      "id": "6fafcbf095655c1f",
+      "category": "Agent",
+      "source": "TechCrunch · 媒体",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "why": "观察 Agent 如何调用工具、管理权限和保证任务可靠完成。",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "publishedAt": "2026-10-10T00:18:32Z",
+      "date": "10月10日",
+      "translated": false
+    },
+    {
+      "id": "7984e92e6601d72f",
+      "category": "大模型",
+      "source": "TechCrunch · 媒体",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "why": "了解模型能力的变化，并思考该如何用真实任务验证效果。",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "publishedAt": "2026-10-09T21:41:29Z",
+      "date": "10月9日",
+      "translated": false
+    },
+    {
+      "id": "0854a3cada87fb07",
+      "category": "大模型",
+      "source": "The Verge · 媒体",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as […]",
+      "why": "了解模型能力的变化，并思考该如何用真实任务验证效果。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "publishedAt": "2026-10-09T21:15:38Z",
+      "date": "10月9日",
+      "translated": false
+    },
+    {
+      "id": "43fd2a198be0a450",
+      "category": "大模型",
+      "source": "TechCrunch · 媒体",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "why": "了解模型能力的变化，并思考该如何用真实任务验证效果。",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "publishedAt": "2026-10-09T19:36:56Z",
+      "date": "10月9日",
+      "translated": false
+    },
+    {
+      "id": "42d1906c74af83c6",
       "category": "产品",
       "source": "The Verge · 媒体",
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was […]",
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer ",
       "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "publishedAt": "2026-10-09T09:48:26Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "publishedAt": "2026-10-09T19:09:44Z",
+      "date": "10月9日",
+      "translated": false
+    },
+    {
+      "id": "57fe1472ddc36d4e",
+      "category": "多模态",
+      "source": "The Verge · 媒体",
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the […]",
+      "why": "试试看图像、音频或视频能力是否能简化你已有的工作流。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "publishedAt": "2026-10-09T18:06:57Z",
+      "date": "10月9日",
+      "translated": false
+    },
+    {
+      "id": "e05551817b225bef",
+      "category": "产品",
+      "source": "Hugging Face 官方",
+      "title": "Impactful scheduling for GPU clusters",
+      "summary": "自动抓取了原文标题，建议打开来源阅读完整内容。",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "publishedAt": "2026-10-09T15:20:29Z",
       "date": "10月9日",
       "translated": false
     },
@@ -40,6 +112,18 @@
       "translated": false
     },
     {
+      "id": "9bf93d58cc35db99",
+      "category": "Agent",
+      "source": "OpenAI 官方",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "why": "观察 Agent 如何调用工具、管理权限和保证任务可靠完成。",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "publishedAt": "2026-10-09T07:00:00Z",
+      "date": "10月9日",
+      "translated": false
+    },
+    {
       "id": "feab0ad4868e3e2e",
       "category": "大模型",
       "source": "MIT Technology Review · 媒体",
@@ -52,66 +136,6 @@
       "translated": false
     },
     {
-      "id": "0856c1a27e7e11a7",
-      "category": "大模型",
-      "source": "The Verge · 媒体",
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that",
-      "why": "了解模型能力的变化，并思考该如何用真实任务验证效果。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "publishedAt": "2026-10-08T21:53:51Z",
-      "date": "10月8日",
-      "translated": false
-    },
-    {
-      "id": "1bc6c949e17a2fda",
-      "category": "产品",
-      "source": "TechCrunch · 媒体",
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "publishedAt": "2026-10-08T21:00:00Z",
-      "date": "10月8日",
-      "translated": false
-    },
-    {
-      "id": "7bd525b884109b29",
-      "category": "产品",
-      "source": "The Verge · 媒体",
-      "title": "California is trying to shut down robot vs. human cage matches",
-      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-      "publishedAt": "2026-10-08T20:06:56Z",
-      "date": "10月8日",
-      "translated": false
-    },
-    {
-      "id": "0d8c74eec04dc0ba",
-      "category": "产品",
-      "source": "TechCrunch · 媒体",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "publishedAt": "2026-10-08T20:04:26Z",
-      "date": "10月8日",
-      "translated": false
-    },
-    {
-      "id": "2d837d367b192c68",
-      "category": "产品",
-      "source": "TechCrunch · 媒体",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "publishedAt": "2026-10-08T18:20:32Z",
-      "date": "10月8日",
-      "translated": false
-    },
-    {
       "id": "db7b9e6fe248e314",
       "category": "Agent",
       "source": "OpenAI 官方",
@@ -120,30 +144,6 @@
       "why": "观察 Agent 如何调用工具、管理权限和保证任务可靠完成。",
       "url": "https://openai.com/index/oracle",
       "publishedAt": "2026-10-08T16:00:00Z",
-      "date": "10月8日",
-      "translated": false
-    },
-    {
-      "id": "855092fba1df7e8a",
-      "category": "多模态",
-      "source": "OpenAI 官方",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "why": "试试看图像、音频或视频能力是否能简化你已有的工作流。",
-      "url": "https://openai.com/index/pollo-ai",
-      "publishedAt": "2026-10-08T12:00:00Z",
-      "date": "10月8日",
-      "translated": false
-    },
-    {
-      "id": "5779b78eb98d9c87",
-      "category": "多模态",
-      "source": "MIT Technology Review · 媒体",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or…",
-      "why": "试试看图像、音频或视频能力是否能简化你已有的工作流。",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "publishedAt": "2026-10-08T09:00:00Z",
       "date": "10月8日",
       "translated": false
     }
