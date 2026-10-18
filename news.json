@@ -1,18 +1,66 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T01:10:13Z",
+  "generated_at": "2026-10-18T01:10:07Z",
   "source_mode": "rss_auto",
   "items": [
     {
-      "id": "fdd4c6f578d6ab89",
+      "id": "7dd27ee4e856d38c",
       "category": "产品",
       "source": "TechCrunch · 媒体",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
       "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "publishedAt": "2026-10-16T21:22:28Z",
-      "date": "10月16日",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "publishedAt": "2026-10-17T21:31:32Z",
+      "date": "10月17日",
+      "translated": false
+    },
+    {
+      "id": "fd3979152c2e61bd",
+      "category": "产品",
+      "source": "TechCrunch · 媒体",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "publishedAt": "2026-10-17T20:21:19Z",
+      "date": "10月17日",
+      "translated": false
+    },
+    {
+      "id": "fcf73aabe3e37fa7",
+      "category": "大模型",
+      "source": "TechCrunch · 媒体",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "why": "了解模型能力的变化，并思考该如何用真实任务验证效果。",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "publishedAt": "2026-10-17T18:48:08Z",
+      "date": "10月17日",
+      "translated": false
+    },
+    {
+      "id": "0b81a58f5b3fe131",
+      "category": "产品",
+      "source": "The Verge · 媒体",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "publishedAt": "2026-10-17T15:04:36Z",
+      "date": "10月17日",
+      "translated": false
+    },
+    {
+      "id": "b31543fcd7d1501b",
+      "category": "Agent",
+      "source": "The Verge · 媒体",
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
+      "why": "观察 Agent 如何调用工具、管理权限和保证任务可靠完成。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "publishedAt": "2026-10-17T13:00:00Z",
+      "date": "10月17日",
       "translated": false
     },
     {
@@ -40,30 +88,6 @@
       "translated": false
     },
     {
-      "id": "8ffbbf24c13a812d",
-      "category": "Agent",
-      "source": "TechCrunch · 媒体",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "why": "观察 Agent 如何调用工具、管理权限和保证任务可靠完成。",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "publishedAt": "2026-10-16T17:52:24Z",
-      "date": "10月16日",
-      "translated": false
-    },
-    {
-      "id": "68b9f741f3df646e",
-      "category": "大模型",
-      "source": "TechCrunch · 媒体",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is",
-      "why": "了解模型能力的变化，并思考该如何用真实任务验证效果。",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "publishedAt": "2026-10-16T16:30:00Z",
-      "date": "10月16日",
-      "translated": false
-    },
-    {
       "id": "54ebdfe79863725a",
       "category": "产品",
       "source": "The Verge · 媒体",
@@ -76,18 +100,6 @@
       "translated": false
     },
     {
-      "id": "ca580b1475b7847a",
-      "category": "产品",
-      "source": "The Verge · 媒体",
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" […]",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "publishedAt": "2026-10-16T14:02:40Z",
-      "date": "10月16日",
-      "translated": false
-    },
-    {
       "id": "138e9b7e7d974724",
       "category": "产品",
       "source": "Hugging Face 官方",
@@ -96,6 +108,18 @@
       "why": "关注新功能服务的真实场景、效果与使用限制。",
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "publishedAt": "2026-10-16T01:44:47Z",
+      "date": "10月16日",
+      "translated": false
+    },
+    {
+      "id": "b6756c0a180ee554",
+      "category": "产品",
+      "source": "OpenAI 官方",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "publishedAt": "2026-10-16T00:00:00Z",
       "date": "10月16日",
       "translated": false
     },
@@ -121,30 +145,6 @@
       "url": "https://huggingface.co/blog/reflection-beam",
       "publishedAt": "2026-10-16T00:00:00Z",
       "date": "10月16日",
-      "translated": false
-    },
-    {
-      "id": "e07170025272d6f1",
-      "category": "多模态",
-      "source": "The Verge · 媒体",
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video […]",
-      "why": "试试看图像、音频或视频能力是否能简化你已有的工作流。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "publishedAt": "2026-10-15T22:43:23Z",
-      "date": "10月15日",
-      "translated": false
-    },
-    {
-      "id": "d330643595776f9f",
-      "category": "多模态",
-      "source": "Hugging Face 官方",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "summary": "自动抓取了原文标题，建议打开来源阅读完整内容。",
-      "why": "试试看图像、音频或视频能力是否能简化你已有的工作流。",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "publishedAt": "2026-10-15T20:34:01Z",
-      "date": "10月15日",
       "translated": false
     }
   ]
