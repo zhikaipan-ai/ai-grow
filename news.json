@@ -1,8 +1,44 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T01:10:07Z",
+  "generated_at": "2026-10-19T01:11:58Z",
   "source_mode": "rss_auto",
   "items": [
+    {
+      "id": "16eddc2105cf8883",
+      "category": "产品",
+      "source": "TechCrunch · 媒体",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "publishedAt": "2026-10-18T20:37:40Z",
+      "date": "10月18日",
+      "translated": false
+    },
+    {
+      "id": "3cf4d945cff63c95",
+      "category": "产品",
+      "source": "The Verge · 媒体",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "publishedAt": "2026-10-18T18:28:10Z",
+      "date": "10月18日",
+      "translated": false
+    },
+    {
+      "id": "35cd62faf12b8e71",
+      "category": "产品",
+      "source": "TechCrunch · 媒体",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "publishedAt": "2026-10-18T16:30:00Z",
+      "date": "10月18日",
+      "translated": false
+    },
     {
       "id": "7dd27ee4e856d38c",
       "category": "产品",
@@ -12,30 +48,6 @@
       "why": "关注新功能服务的真实场景、效果与使用限制。",
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "publishedAt": "2026-10-17T21:31:32Z",
-      "date": "10月17日",
-      "translated": false
-    },
-    {
-      "id": "fd3979152c2e61bd",
-      "category": "产品",
-      "source": "TechCrunch · 媒体",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "publishedAt": "2026-10-17T20:21:19Z",
-      "date": "10月17日",
-      "translated": false
-    },
-    {
-      "id": "fcf73aabe3e37fa7",
-      "category": "大模型",
-      "source": "TechCrunch · 媒体",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "why": "了解模型能力的变化，并思考该如何用真实任务验证效果。",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "publishedAt": "2026-10-17T18:48:08Z",
       "date": "10月17日",
       "translated": false
     },
@@ -84,18 +96,6 @@
       "why": "了解模型能力的变化，并思考该如何用真实任务验证效果。",
       "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "publishedAt": "2026-10-16T18:00:00Z",
-      "date": "10月16日",
-      "translated": false
-    },
-    {
-      "id": "54ebdfe79863725a",
-      "category": "产品",
-      "source": "The Verge · 媒体",
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "publishedAt": "2026-10-16T15:00:00Z",
       "date": "10月16日",
       "translated": false
     },
