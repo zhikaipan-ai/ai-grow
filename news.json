@@ -1,8 +1,32 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T01:40:37Z",
+  "generated_at": "2026-11-02T01:40:54Z",
   "source_mode": "rss_auto",
   "items": [
+    {
+      "id": "944be91cc06a18a8",
+      "category": "产品",
+      "source": "TechCrunch · 媒体",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "publishedAt": "2026-11-01T21:55:23Z",
+      "date": "11月1日",
+      "translated": false
+    },
+    {
+      "id": "7a5ce7ed2f78d284",
+      "category": "产品",
+      "source": "TechCrunch · 媒体",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "publishedAt": "2026-11-01T20:57:58Z",
+      "date": "11月1日",
+      "translated": false
+    },
     {
       "id": "d9269f49d95d2fae",
       "category": "产品",
@@ -12,30 +36,6 @@
       "why": "关注新功能服务的真实场景、效果与使用限制。",
       "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
       "publishedAt": "2026-10-31T21:41:00Z",
-      "date": "10月31日",
-      "translated": false
-    },
-    {
-      "id": "2065ffa365f3e4d6",
-      "category": "产品",
-      "source": "TechCrunch · 媒体",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "publishedAt": "2026-10-31T21:36:07Z",
-      "date": "10月31日",
-      "translated": false
-    },
-    {
-      "id": "204d5faf405d3242",
-      "category": "产品",
-      "source": "TechCrunch · 媒体",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "publishedAt": "2026-10-31T21:17:03Z",
       "date": "10月31日",
       "translated": false
     },
