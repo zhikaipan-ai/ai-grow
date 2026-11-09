@@ -1,8 +1,56 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T01:41:41Z",
+  "generated_at": "2026-11-09T01:45:11Z",
   "source_mode": "rss_auto",
   "items": [
+    {
+      "id": "f0be6325bfc4dec9",
+      "category": "Agent",
+      "source": "The Verge · 媒体",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
+      "why": "观察 Agent 如何调用工具、管理权限和保证任务可靠完成。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "publishedAt": "2026-11-08T22:54:50Z",
+      "date": "11月8日",
+      "translated": false
+    },
+    {
+      "id": "ab3c0090fa33621f",
+      "category": "产品",
+      "source": "TechCrunch · 媒体",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "publishedAt": "2026-11-08T21:00:11Z",
+      "date": "11月8日",
+      "translated": false
+    },
+    {
+      "id": "54c06e97d6e0a2b7",
+      "category": "产品",
+      "source": "The Verge · 媒体",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "publishedAt": "2026-11-08T20:22:39Z",
+      "date": "11月8日",
+      "translated": false
+    },
+    {
+      "id": "b9c0dd474c98ba84",
+      "category": "Agent",
+      "source": "The Verge · 媒体",
+      "title": "Apple is racing to make Siri more agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
+      "why": "观察 Agent 如何调用工具、管理权限和保证任务可靠完成。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "publishedAt": "2026-11-08T19:18:19Z",
+      "date": "11月8日",
+      "translated": false
+    },
     {
       "id": "757379c07d1179f7",
       "category": "产品",
@@ -24,54 +72,6 @@
       "why": "关注新功能服务的真实场景、效果与使用限制。",
       "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
       "publishedAt": "2026-11-07T21:17:08Z",
-      "date": "11月7日",
-      "translated": false
-    },
-    {
-      "id": "1ab28dde47a3074f",
-      "category": "产品",
-      "source": "The Verge · 媒体",
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "publishedAt": "2026-11-07T15:50:00Z",
-      "date": "11月7日",
-      "translated": false
-    },
-    {
-      "id": "b521172828d62613",
-      "category": "生产力",
-      "source": "The Verge · 媒体",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
-      "why": "想想这项能力能否融入一个每周重复的任务，并衡量节省的时间。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "publishedAt": "2026-11-07T15:43:45Z",
-      "date": "11月7日",
-      "translated": false
-    },
-    {
-      "id": "4b429bd7582936e3",
-      "category": "生产力",
-      "source": "The Verge · 媒体",
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
-      "why": "想想这项能力能否融入一个每周重复的任务，并衡量节省的时间。",
-      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "publishedAt": "2026-11-07T15:00:00Z",
-      "date": "11月7日",
-      "translated": false
-    },
-    {
-      "id": "ec2480d446f6212c",
-      "category": "产品",
-      "source": "TechCrunch · 媒体",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "summary": "The deal highlights the challenges of developing massive AI data centers.",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "publishedAt": "2026-11-07T01:40:28Z",
       "date": "11月7日",
       "translated": false
     },
