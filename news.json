@@ -1,8 +1,68 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T06:54:41Z",
+  "generated_at": "2026-11-15T07:01:19Z",
   "source_mode": "rss_auto",
   "items": [
+    {
+      "id": "a8381ccf0f4a6c26",
+      "category": "生产力",
+      "source": "TechCrunch · 媒体",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "why": "想想这项能力能否融入一个每周重复的任务，并衡量节省的时间。",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "publishedAt": "2026-11-15T00:08:07Z",
+      "date": "11月15日",
+      "translated": false
+    },
+    {
+      "id": "e86112d5f8734949",
+      "category": "产品",
+      "source": "TechCrunch · 媒体",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "publishedAt": "2026-11-14T21:41:22Z",
+      "date": "11月14日",
+      "translated": false
+    },
+    {
+      "id": "0dac5bc8bd77a78d",
+      "category": "产品",
+      "source": "TechCrunch · 媒体",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-11-14T17:30:00Z",
+      "date": "11月14日",
+      "translated": false
+    },
+    {
+      "id": "6c2539c06ead4df2",
+      "category": "产品",
+      "source": "The Verge · 媒体",
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "publishedAt": "2026-11-14T15:00:00Z",
+      "date": "11月14日",
+      "translated": false
+    },
+    {
+      "id": "f88fcfa12fe4eda6",
+      "category": "产品",
+      "source": "The Verge · 媒体",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "publishedAt": "2026-11-14T12:00:00Z",
+      "date": "11月14日",
+      "translated": false
+    },
     {
       "id": "96048276e5de0ccf",
       "category": "产品",
@@ -12,54 +72,6 @@
       "why": "关注新功能服务的真实场景、效果与使用限制。",
       "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
       "publishedAt": "2026-11-13T23:49:11Z",
-      "date": "11月13日",
-      "translated": false
-    },
-    {
-      "id": "a53b6d6797d1d8ce",
-      "category": "产品",
-      "source": "TechCrunch · 媒体",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "publishedAt": "2026-11-13T22:43:00Z",
-      "date": "11月13日",
-      "translated": false
-    },
-    {
-      "id": "754f24889ed9e00a",
-      "category": "Agent",
-      "source": "The Verge · 媒体",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
-      "why": "观察 Agent 如何调用工具、管理权限和保证任务可靠完成。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "publishedAt": "2026-11-13T20:45:10Z",
-      "date": "11月13日",
-      "translated": false
-    },
-    {
-      "id": "b96c8f1ce3eaba55",
-      "category": "Agent",
-      "source": "TechCrunch · 媒体",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "why": "观察 Agent 如何调用工具、管理权限和保证任务可靠完成。",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "publishedAt": "2026-11-13T19:37:57Z",
-      "date": "11月13日",
-      "translated": false
-    },
-    {
-      "id": "6669a4d19d8d9722",
-      "category": "大模型",
-      "source": "TechCrunch · 媒体",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "why": "了解模型能力的变化，并思考该如何用真实任务验证效果。",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "publishedAt": "2026-11-13T18:40:30Z",
       "date": "11月13日",
       "translated": false
     },
@@ -96,18 +108,6 @@
       "why": "观察 Agent 如何调用工具、管理权限和保证任务可靠完成。",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "publishedAt": "2026-11-13T15:00:00Z",
-      "date": "11月13日",
-      "translated": false
-    },
-    {
-      "id": "4815b0b06c433103",
-      "category": "产品",
-      "source": "The Verge · 媒体",
-      "title": "What’s really at stake in the Jensen Huang saga",
-      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "publishedAt": "2026-11-13T14:47:16Z",
       "date": "11月13日",
       "translated": false
     },
