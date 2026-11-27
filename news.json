@@ -1,8 +1,56 @@
 {
   "version": 1,
-  "generated_at": "2026-11-26T08:47:12Z",
+  "generated_at": "2026-11-27T08:58:01Z",
   "source_mode": "rss_auto",
   "items": [
+    {
+      "id": "979e22972f743c14",
+      "category": "产品",
+      "source": "TechCrunch · 媒体",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "publishedAt": "2026-11-26T20:03:54Z",
+      "date": "11月26日",
+      "translated": false
+    },
+    {
+      "id": "b81da0547893b262",
+      "category": "多模态",
+      "source": "TechCrunch · 媒体",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "why": "试试看图像、音频或视频能力是否能简化你已有的工作流。",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "publishedAt": "2026-11-26T16:00:00Z",
+      "date": "11月26日",
+      "translated": false
+    },
+    {
+      "id": "a734da9d3a1d8760",
+      "category": "大模型",
+      "source": "Hugging Face 官方",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "自动抓取了原文标题，建议打开来源阅读完整内容。",
+      "why": "了解模型能力的变化，并思考该如何用真实任务验证效果。",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "publishedAt": "2026-11-26T11:37:17Z",
+      "date": "11月26日",
+      "translated": false
+    },
+    {
+      "id": "e51b021662e92d60",
+      "category": "产品",
+      "source": "The Verge · 媒体",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "publishedAt": "2026-11-26T09:54:40Z",
+      "date": "11月26日",
+      "translated": false
+    },
     {
       "id": "3d2697b636d74b83",
       "category": "产品",
@@ -12,6 +60,18 @@
       "why": "关注新功能服务的真实场景、效果与使用限制。",
       "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "publishedAt": "2026-11-26T05:05:36Z",
+      "date": "11月26日",
+      "translated": false
+    },
+    {
+      "id": "819f2bb8e324e5e7",
+      "category": "Agent",
+      "source": "Hugging Face 官方",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "summary": "自动抓取了原文标题，建议打开来源阅读完整内容。",
+      "why": "观察 Agent 如何调用工具、管理权限和保证任务可靠完成。",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "publishedAt": "2026-11-26T00:00:00Z",
       "date": "11月26日",
       "translated": false
     },
@@ -40,42 +100,6 @@
       "translated": false
     },
     {
-      "id": "fb19c642f1b75584",
-      "category": "大模型",
-      "source": "TechCrunch · 媒体",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "why": "了解模型能力的变化，并思考该如何用真实任务验证效果。",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "publishedAt": "2026-11-25T20:03:27Z",
-      "date": "11月25日",
-      "translated": false
-    },
-    {
-      "id": "74d99a307b5dcf28",
-      "category": "产品",
-      "source": "TechCrunch · 媒体",
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "publishedAt": "2026-11-25T19:54:57Z",
-      "date": "11月25日",
-      "translated": false
-    },
-    {
-      "id": "88bd06d7e0e9b82f",
-      "category": "Agent",
-      "source": "Hugging Face 官方",
-      "title": "Where scientists draw the line on AI agents",
-      "summary": "自动抓取了原文标题，建议打开来源阅读完整内容。",
-      "why": "观察 Agent 如何调用工具、管理权限和保证任务可靠完成。",
-      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "publishedAt": "2026-11-25T18:52:55Z",
-      "date": "11月25日",
-      "translated": false
-    },
-    {
       "id": "17929128d139e3d0",
       "category": "产品",
       "source": "The Verge · 媒体",
@@ -84,30 +108,6 @@
       "why": "关注新功能服务的真实场景、效果与使用限制。",
       "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
       "publishedAt": "2026-11-25T17:44:51Z",
-      "date": "11月25日",
-      "translated": false
-    },
-    {
-      "id": "927dd6b10beb1b95",
-      "category": "产品",
-      "source": "The Verge · 媒体",
-      "title": "Nothing offers a full look at its AI earbuds and charging case",
-      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you […]",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-      "publishedAt": "2026-11-25T16:00:59Z",
-      "date": "11月25日",
-      "translated": false
-    },
-    {
-      "id": "0077e07924e43bf7",
-      "category": "Agent",
-      "source": "Hugging Face 官方",
-      "title": "An Indic Voice Agent with CUGA",
-      "summary": "自动抓取了原文标题，建议打开来源阅读完整内容。",
-      "why": "观察 Agent 如何调用工具、管理权限和保证任务可靠完成。",
-      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "publishedAt": "2026-11-25T10:22:09Z",
       "date": "11月25日",
       "translated": false
     },
@@ -136,14 +136,14 @@
       "translated": false
     },
     {
-      "id": "10ef75306f1db512",
-      "category": "产品",
-      "source": "Google DeepMind 官方",
-      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-      "publishedAt": "2026-11-24T13:07:53Z",
+      "id": "ac2f786b30f6d457",
+      "category": "大模型",
+      "source": "OpenAI 官方",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "why": "了解模型能力的变化，并思考该如何用真实任务验证效果。",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "publishedAt": "2026-11-24T13:00:00Z",
       "date": "11月24日",
       "translated": false
     }
