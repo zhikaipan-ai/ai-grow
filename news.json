@@ -1,8 +1,32 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T08:58:01Z",
+  "generated_at": "2026-11-28T08:19:16Z",
   "source_mode": "rss_auto",
   "items": [
+    {
+      "id": "1d140bb3b26b0663",
+      "category": "产品",
+      "source": "The Verge · 媒体",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "publishedAt": "2026-11-27T14:00:00Z",
+      "date": "11月27日",
+      "translated": false
+    },
+    {
+      "id": "c2bd7953104652e4",
+      "category": "多模态",
+      "source": "Hugging Face 官方",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "自动抓取了原文标题，建议打开来源阅读完整内容。",
+      "why": "试试看图像、音频或视频能力是否能简化你已有的工作流。",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "date": "11月27日",
+      "translated": false
+    },
     {
       "id": "979e22972f743c14",
       "category": "产品",
@@ -64,18 +88,6 @@
       "translated": false
     },
     {
-      "id": "819f2bb8e324e5e7",
-      "category": "Agent",
-      "source": "Hugging Face 官方",
-      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-      "summary": "自动抓取了原文标题，建议打开来源阅读完整内容。",
-      "why": "观察 Agent 如何调用工具、管理权限和保证任务可靠完成。",
-      "url": "https://huggingface.co/blog/training-swarms",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "date": "11月26日",
-      "translated": false
-    },
-    {
       "id": "d7b28b808e94d828",
       "category": "产品",
       "source": "TechCrunch · 媒体",
@@ -96,18 +108,6 @@
       "why": "试试看图像、音频或视频能力是否能简化你已有的工作流。",
       "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
       "publishedAt": "2026-11-25T21:51:26Z",
-      "date": "11月25日",
-      "translated": false
-    },
-    {
-      "id": "17929128d139e3d0",
-      "category": "产品",
-      "source": "The Verge · 媒体",
-      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
-      "why": "关注新功能服务的真实场景、效果与使用限制。",
-      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "publishedAt": "2026-11-25T17:44:51Z",
       "date": "11月25日",
       "translated": false
     },
@@ -136,14 +136,14 @@
       "translated": false
     },
     {
-      "id": "ac2f786b30f6d457",
-      "category": "大模型",
-      "source": "OpenAI 官方",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-      "why": "了解模型能力的变化，并思考该如何用真实任务验证效果。",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "publishedAt": "2026-11-24T13:00:00Z",
+      "id": "10ef75306f1db512",
+      "category": "产品",
+      "source": "Google DeepMind 官方",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "why": "关注新功能服务的真实场景、效果与使用限制。",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "publishedAt": "2026-11-24T13:07:53Z",
       "date": "11月24日",
       "translated": false
     }
